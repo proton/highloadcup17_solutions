@@ -20,6 +20,8 @@
 |  | https://github.com/kak-tus/avery | Perl |  |  |
 |  | https://github.com/essildoor/kona-travels | Java |  |  |
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
+|  | https://github.com/cdfeasy/highloadcup | Java |  |  |
+|  | https://github.com/0xd34d10cc/highloadcup | Rust |  |  |
 |  |  |  |  |  |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
