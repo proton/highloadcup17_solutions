@@ -15,6 +15,7 @@
 | 71 | https://github.com/ruslanys/highloadcup | Java | 276.76909 | Руслан Молчанов |
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
 | 111 | https://github.com/server-may-cry/highloadcup_17 | Go | 1151.07688 | Сергей Оплетаев |
+| 184 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 662055.46623 | Maxim Zasorin |
 | 209 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51006 | Arcady Chumachenko |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
 |  | https://bitbucket.org/shchukin/travels | Go |  | Alexandr Shchukin |
