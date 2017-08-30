@@ -25,5 +25,6 @@
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/cdfeasy/highloadcup | Java |  |  |
 |  | https://github.com/0xd34d10cc/highloadcup | Rust |  |  |
+|  | https://github.com/ebogdanov/highloadcup-solution | PHP |  |  |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
