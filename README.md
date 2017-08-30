@@ -12,6 +12,8 @@
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
 |  | https://bitbucket.org/shchukin/travels | Go |  | Alexandr Shchukin |
 |  | https://github.com/kak-tus/avery | Perl |  |  |
+|  | https://github.com/essildoor/kona-travels | Java |  |  |
+|  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  |  |  |  |  |
 
 
