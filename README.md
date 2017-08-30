@@ -11,6 +11,7 @@
 | 38 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
 | 41 | https://github.com/ei-grad/hlcup | Go | 241.77205 | Andrew Grigorev |
 | 47 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
+| 111 | https://github.com/server-may-cry/highloadcup_17 | Go | 1151.07688 | Сергей Оплетаев |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
 |  | https://bitbucket.org/shchukin/travels | Go |  | Alexandr Shchukin |
 |  | https://github.com/kak-tus/avery | Perl |  |  |
