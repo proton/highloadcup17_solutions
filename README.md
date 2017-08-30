@@ -1,5 +1,7 @@
 # highloadcup17_solutions
 
+https://github.com/cdump/highloadcup - С
+
 https://github.com/AterCattus/bicycle-mrhlc - Go
 
 https://github.com/proton/highloadcup17_go - Go
