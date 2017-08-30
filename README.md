@@ -11,6 +11,7 @@
 | 35 | https://github.com/WebProdPP/highloadcup | Go | 226.86371 | Александр Майорский |
 | 38 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
 | 41 | https://github.com/ei-grad/hlcup | Go | 241.77205 | Andrew Grigorev |
+| 44 | https://github.com/Mons/hlcup | Perl | 243.77012 | Mons Anderson |
 | 45 | https://github.com/olegator77/hlcup_reindex | C++ | 244.98897 | Oleg Gerasimov |
 | 47 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
 | 70 | https://github.com/0xd34d10cc/highloadcup | Rust | 275.25939 | Jon Snow |
