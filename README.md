@@ -12,6 +12,7 @@
 | 41 | https://github.com/ei-grad/hlcup | Go | 241.77205 | Andrew Grigorev |
 | 45 | https://github.com/olegator77/hlcup_reindex | C++ | 244.98897 | Oleg Gerasimov |
 | 47 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
+| 71 | https://github.com/ruslanys/highloadcup | Java | 276.76909 | Руслан Молчанов |
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
 | 111 | https://github.com/server-may-cry/highloadcup_17 | Go | 1151.07688 | Сергей Оплетаев |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
