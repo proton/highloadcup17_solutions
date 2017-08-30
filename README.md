@@ -11,3 +11,9 @@ https://github.com/ei-grad/hlcup - Go
 https://github.com/evgsid/highload_solution - C++
 
 https://bitbucket.org/shchukin/travels - Go
+
+https://github.com/kak-tus/avery - Perl
+
+https://github.com/irqlevel/http_server_hlcup2017 - C
+
+Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
