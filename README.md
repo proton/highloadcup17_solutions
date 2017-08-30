@@ -16,6 +16,7 @@
 | 47 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
 | 70 | https://github.com/0xd34d10cc/highloadcup | Rust | 275.25939 | Jon Snow |
 | 71 | https://github.com/ruslanys/highloadcup | Java | 276.76909 | Руслан Молчанов |
+| 89 | https://github.com/lockie/highload-cup | C, Python | 349.36356 | Андрей Кравчукъ |
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
 | 111 | https://github.com/server-may-cry/highloadcup_17 | Go | 1151.07688 | Сергей Оплетаев |
 | 184 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 662055.46623 | Maxim Zasorin |
