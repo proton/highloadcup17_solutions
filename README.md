@@ -40,7 +40,8 @@
 |  | https://github.com/SuperVasya/highloadcup | Python |  |  |
 |  | https://github.com/bochsdbg/hlcup/ | C++ |  |  |
 |  | https://github.com/xzfc/highloadcup | C++ |  |  |
+|  | https://github.com/oioki/highloadcup2017 | Go |  | Alexander Tarasov |
+|  | https://github.com/maierru/hlcup_elixir | Elixir |  |  |
 |  |  |  |  |  |
-
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
