@@ -32,6 +32,8 @@
 |  | https://github.com/cdfeasy/highloadcup | Java |  |  |
 |  | https://github.com/ebogdanov/highloadcup-solution | PHP |  |  |
 |  | https://github.com/SuperVasya/highloadcup | Python |  |  |
+|  | https://github.com/bochsdbg/hlcup/ | C++ |  |  |
+|  | https://github.com/xzfc/highloadcup | C++ |  |  |
 |  |  |  |  |  |
 
 
