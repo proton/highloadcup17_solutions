@@ -1,6 +1,7 @@
 # highloadcup17_solutions
 
 Задание: https://github.com/sat2707/hlcupdocs
+
 Тестер корректности/производительности: https://github.com/AterCattus/highloadcup_tester
 
 | Место  | Ссылка | Язык | Штраф | Имя |
