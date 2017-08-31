@@ -6,6 +6,7 @@
 
 | Место  | Ссылка | Язык | Штраф | Имя |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | https://github.com/nikita-uvarov/highloadcup-travels-solution | C++ | 134.68162 | Никита Уваров |
 | 2 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
 | 3 | https://github.com/tyamgin/highloadcup | C++ | 142.19623 | Иван Тямгин |
 | 5 | https://github.com/cdump/highloadcup | С | 143.62501 | Максим Андреев |
