@@ -37,6 +37,7 @@ new_table_rating = repos.values.sort_by {|repo| repo[:position] }.map do |repo|
   repo[:name] = nil if repo[:name].start_with? 'http'
   repo[:position] = nil if repo[:position] == NO_POSITION
   time = repo[:time].to_f
+  repo[:time] = nil if repo[:time].zero?
   repo[:time] = time.round(2) if time.to_i.to_s.size > 4
   ([nil] + fields.map { |f| repo[f] } + [nil]).join(' | ').strip
 end
