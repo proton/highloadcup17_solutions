@@ -24,6 +24,7 @@
 | 44 | https://github.com/ei-grad/hlcup | Go | 241.77205 | Андрей Григорьев |
 | 46 | https://github.com/olegator77/hlcup_reindex | C++ | 244.98897 | Oleg Gerasimov |
 | 48 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
+| 52 | https://github.com/FedorZaytsev/highloadcup2017 | Go | 249.87749 | Fedor Zaytsev |
 | 72 | https://github.com/ruslanys/highloadcup | Java | 274.20083 | Руслан Молчанов |
 | 74 | https://github.com/0xd34d10cc/highloadcup | Rust | 275.25939 | Jon Snow |
 | 80 | https://github.com/cdfeasy/highloadcup | Java | 303.86881 | Дмитрий Асадуллин |
@@ -37,15 +38,15 @@
 | 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
 | 191 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
 | 221 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51 | Arcady Chumachenko |
-|  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 |  | https://github.com/la0rg/highloadcup | Go |  |  |
 |  | https://github.com/ebogdanov/highloadcup-solution | PHP |  |  |
 |  | https://github.com/kak-tus/avery | Perl |  |  |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
-|  | https://github.com/essildoor/kona-travels | Java |  |  |
+|  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
 |  | https://github.com/SuperVasya/highloadcup | Python |  |  |
 |  | https://github.com/undying/highloadcup-2017 | Nginx+Lua+Redis |  |  |
+|  | https://github.com/essildoor/kona-travels | Java |  |  |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
