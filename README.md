@@ -28,9 +28,9 @@
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
 | 117 | https://github.com/server-may-cry/highloadcup_17 | Go | 1028.86225 | Сергей Оплетаев |
 | 129 | https://github.com/SHaaD94/highload2017 | Lua+Tarantool | 3565.56944 | Евгений Зуйкин |
-| 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27280 | Александр Семенов |
-| 191 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64225 | Maxim Zasorin |
-| 221 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51006 | Arcady Chumachenko |
+| 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
+| 191 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
+| 221 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51 | Arcady Chumachenko |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
 |  | https://github.com/kak-tus/avery | Perl |  |  |
 |  | https://github.com/essildoor/kona-travels | Java |  |  |

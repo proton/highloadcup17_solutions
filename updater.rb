@@ -33,6 +33,8 @@ fields = %i(position url lang time name)
 new_table_rating = repos.values.sort_by {|repo| repo[:position] }.map do |repo|
   repo[:name] = nil if repo[:name].start_with? 'http'
   repo[:position] = nil if repo[:position] == 9999
+  time = repo[:time].to_f
+  repo[:time] = time.round(2) if time.to_i.to_s.size > 4
   ([nil] + fields.map { |f| repo[f] } + [nil]).join(' | ').strip
 end
 new_file_table_content = (file_table_header+new_table_rating).join("\n")
