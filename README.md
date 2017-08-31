@@ -17,6 +17,7 @@
 | 23 | https://github.com/xzfc/highloadcup | C++ | 210.03543 | Jerky McJerkface |
 | 24 | https://github.com/kromberg/highload | С++ | 210.37382 | Егор Кромберг |
 | 25 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
+| 35 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
 | 37 | https://github.com/mtrempoltsev/hlcup2017 | С++ | 225.53005 | Максим Тремпольцев |
 | 39 | https://github.com/WebProdPP/highloadcup | Go | 226.86371 | Александр Майорский |
 | 42 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
@@ -36,15 +37,14 @@
 | 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
 | 191 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
 | 221 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51 | Arcady Chumachenko |
+|  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 |  | https://github.com/la0rg/highloadcup | Go |  |  |
 |  | https://github.com/ebogdanov/highloadcup-solution | PHP |  |  |
 |  | https://github.com/kak-tus/avery | Perl |  |  |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
-|  | https://github.com/oioki/highloadcup2017 | Go |  | Alexander Tarasov |
 |  | https://github.com/essildoor/kona-travels | Java |  |  |
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
 |  | https://github.com/SuperVasya/highloadcup | Python |  |  |
-|  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
