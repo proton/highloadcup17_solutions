@@ -9,6 +9,7 @@
 | 14 | https://github.com/evgsid/highload_solution | C++ | 197.54879 | Евгений Сидоренко |
 | 16 | https://github.com/irqlevel/http_server_hlcup2017 | C | 203.19005 | Andrey Smetanin  |
 | 35 | https://github.com/WebProdPP/highloadcup | Go | 226.86371 | Александр Майорский |
+| 37 | https://github.com/mtrempoltsev/hlcup2017 | С++ | 225.53005 | Максим Тремпольцев |
 | 38 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
 | 41 | https://github.com/ei-grad/hlcup | Go | 241.77205 | Andrew Grigorev |
 | 44 | https://github.com/Mons/hlcup | Perl | 243.77012 | Mons Anderson |
