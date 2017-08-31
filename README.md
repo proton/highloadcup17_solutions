@@ -26,6 +26,7 @@
 | 83 | https://bitbucket.org/shchukin/travels | Go | 310.28113 | Александр Щукин |
 | 88 | https://github.com/lockie/highload-cup | C, Python | 325.22460 | Андрей Кравчукъ |
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
+| 107 | https://github.com/lattenwald/highloadcup.ru | Elixir | 506.82566 | Александр Кюсев |
 | 117 | https://github.com/server-may-cry/highloadcup_17 | Go | 1028.86225 | Сергей Оплетаев |
 | 129 | https://github.com/SHaaD94/highload2017 | Lua+Tarantool | 3565.56944 | Евгений Зуйкин |
 | 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
