@@ -26,7 +26,7 @@
 | 72 | https://github.com/ruslanys/highloadcup | Java | 274.20083 | Руслан Молчанов |
 | 74 | https://github.com/0xd34d10cc/highloadcup | Rust | 275.25939 | Jon Snow |
 | 80 | https://github.com/cdfeasy/highloadcup | Java | 303.86881 | Дмитрий Асадуллин |
-| 83 | https://github.com/alex-shch/travels | Go | 310.28113 | Александр Щукин |
+| 83 | https://github.com/alex-shch/hlc-2017 | Go | 310.28113 | Александр Щукин |
 | 88 | https://github.com/lockie/highload-cup | C, Python | 325.22460 | Андрей Кравчукъ |
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
 | 107 | https://github.com/lattenwald/highloadcup.ru | Elixir | 506.82566 | Александр Кюсев |
