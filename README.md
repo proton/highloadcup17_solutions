@@ -2,7 +2,8 @@
 
 | Место  | Ссылка | Язык | Штраф | Имя |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2 | https://github.com/tyamgin/highloadcup | C++ | 142.19623 | Иван Тямгин |
+| 2 | https://github.com/DragoonXen/HL-cup_2017/ | C++ | 136.28793 | Алексей Дичковский |
+| 3 | https://github.com/tyamgin/highloadcup | C++ | 142.19623 | Иван Тямгин |
 | 4 | https://github.com/cdump/highloadcup | С | 143.62501 | Максим Андреев |
 | 8 | https://github.com/AterCattus/bicycle-mrhlc | Go | 189.50301 | Алексей Акулович |
 | 12 | https://github.com/wizzardo/highloadcup | Java | 196.01050 | Mikhail Bobrutskov |
