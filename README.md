@@ -6,7 +6,7 @@
 
 | Место  | Ссылка | Язык | Штраф | Имя |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2 | https://github.com/DragoonXen/HL-cup_2017/ | C++ | 136.28793 | Алексей Дичковский |
+| 2 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
 | 3 | https://github.com/tyamgin/highloadcup | C++ | 142.19623 | Иван Тямгин |
 | 5 | https://github.com/cdump/highloadcup | С | 143.62501 | Максим Андреев |
 | 8 | https://github.com/AterCattus/bicycle-mrhlc | Go | 189.50301 | Алексей Акулович |
@@ -38,7 +38,7 @@
 |  | https://github.com/cdfeasy/highloadcup | Java |  |  |
 |  | https://github.com/ebogdanov/highloadcup-solution | PHP |  |  |
 |  | https://github.com/SuperVasya/highloadcup | Python |  |  |
-|  | https://github.com/bochsdbg/hlcup/ | C++ |  |  |
+|  | https://github.com/bochsdbg/hlcup | C++ |  |  |
 |  | https://github.com/xzfc/highloadcup | C++ |  |  |
 |  | https://github.com/oioki/highloadcup2017 | Go |  | Alexander Tarasov |
 |  | https://github.com/maierru/hlcup_elixir | Elixir |  |  |
