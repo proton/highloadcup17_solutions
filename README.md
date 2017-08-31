@@ -12,12 +12,12 @@
 | 10 | https://github.com/kromberg/highload | С++ | 197.45812 | Егор Кромберг |
 | 12 | https://github.com/mtrempoltsev/hlcup2017 | С++ | 199.21302 | Максим Тремпольцев |
 | 15 | https://github.com/tyamgin/highloadcup | C++ | 142.19623 | Иван Тямгин |
-| 18 | https://github.com/irqlevel/http_server_hlcup2017 | C | 203.19005 | Andrey Smetanin |
-| 20 | https://github.com/xzfc/highloadcup | C++ | 210.03543 | Jerky McJerkface |
-| 27 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
-| 30 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
-| 31 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
-| 37 | https://github.com/wizzardo/highloadcup | Java | 196.0105 | Mikhail Bobrutskov |
+| 18 | https://github.com/wizzardo/highloadcup | Java | 196.0105 | Mikhail Bobrutskov |
+| 19 | https://github.com/irqlevel/http_server_hlcup2017 | C | 203.19005 | Andrey Smetanin |
+| 21 | https://github.com/xzfc/highloadcup | C++ | 210.03543 | Jerky McJerkface |
+| 28 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
+| 31 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
+| 32 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
 | 38 | https://github.com/evgsid/highload_solution | C++ | 197.54879 | Евгений Сидоренко |
 | 42 | https://github.com/WebProdPP/highloadcup | Go | 226.86371 | Александр Майорский |
 | 43 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
@@ -37,6 +37,7 @@
 | 117 | https://github.com/server-may-cry/highloadcup_17 | Go | 1028.86225 | Сергей Оплетаев |
 | 127 | https://github.com/alexk8/mrghighloadcup17 | C# | 2524.9229 | Alex K |
 | 129 | https://github.com/SHaaD94/highload2017 | Lua+Tarantool | 3565.56944 | Евгений Зуйкин |
+| 132 | https://github.com/volyx/ratpack | Java | 4431.67258 | Дмитрий Волыхин |
 | 151 | https://github.com/maierru/hlcup_elixir | Elixir | 37226.29 | Юрий Кудряшов |
 | 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
 | 191 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
