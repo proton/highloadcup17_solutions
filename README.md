@@ -19,8 +19,8 @@
 | 27 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
 | 33 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
 | 35 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
-| 40 | https://github.com/evgsid/highload_solution | C++ | 197.54879 | Евгений Сидоренко |
-| 43 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
+| 40 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
+| 41 | https://github.com/evgsid/highload_solution | C++ | 197.54879 | Евгений Сидоренко |
 | 44 | https://github.com/AterCattus/bicycle-mrhlc | Go | 189.50301 | Алексей Акулович |
 | 45 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
 | 48 | https://github.com/olegator77/hlcup_reindex | C++ | 244.98897 | Oleg Gerasimov |
@@ -42,13 +42,13 @@
 | 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
 | 191 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
 | 221 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51 | Arcady Chumachenko |
+| 232 | https://github.com/SuperVasya/highloadcup | Python | 1514831.39 | Eugene Karimov |
 |  | https://github.com/la0rg/highloadcup | Go |  |  |
 |  | https://github.com/kak-tus/avery | Perl |  |  |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
 |  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
-| 232 | https://github.com/SuperVasya/highloadcup | Python | 1514831.39195 | Eugene Karimov |
 |  | https://github.com/undying/highloadcup-2017 | Nginx+Lua+Redis |  |  |
 |  | https://github.com/essildoor/kona-travels | Java |  |  |
 |  | https://github.com/ebogdanov/highloadcup-solution | PHP |  |  |
