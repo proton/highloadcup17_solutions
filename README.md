@@ -45,5 +45,6 @@
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
 |  | https://github.com/SuperVasya/highloadcup | Python |  |  |
+|  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
