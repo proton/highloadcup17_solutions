@@ -46,5 +46,6 @@
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
 |  | https://github.com/SuperVasya/highloadcup | Python |  |  |
+|  | https://github.com/undying/highloadcup-2017 | Nginx+Lua+Redis |  |  |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
