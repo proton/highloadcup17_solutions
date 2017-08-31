@@ -48,7 +48,7 @@
 |  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
-|  | https://github.com/SuperVasya/highloadcup | Python |  |  |
+| 232 | https://github.com/SuperVasya/highloadcup | Python | 1514831.39195 | Eugene Karimov |
 |  | https://github.com/undying/highloadcup-2017 | Nginx+Lua+Redis |  |  |
 |  | https://github.com/essildoor/kona-travels | Java |  |  |
 |  | https://github.com/ebogdanov/highloadcup-solution | PHP |  |  |
