@@ -6,20 +6,20 @@
 
 | Место  | Ссылка | Язык | Штраф | Имя |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | https://github.com/cdump/highloadcup | С | 135.42192 | Максим Андреев |
-| 2 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
-| 3 | https://github.com/nikita-uvarov/highloadcup-travels-solution | C++ | 134.68162 | Никита Уваров |
+| 2 | https://github.com/cdump/highloadcup | С | 135.42192 | Максим Андреев |
+| 3 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
+| 4 | https://github.com/nikita-uvarov/highloadcup-travels-solution | C++ | 134.68162 | Никита Уваров |
 | 5 | https://github.com/tyamgin/highloadcup | C++ | 142.19623 | Иван Тямгин |
 | 9 | https://github.com/xzfc/highloadcup | C++ | 190.32211 | Jerky McJerkface |
 | 13 | https://github.com/kromberg/highload | С++ | 197.45812 | Егор Кромберг |
 | 15 | https://github.com/mtrempoltsev/hlcup2017 | С++ | 199.21302 | Максим Тремпольцев |
 | 17 | https://github.com/irqlevel/http_server_hlcup2017 | C | 201.03289 | Andrey Smetanin |
 | 21 | https://github.com/wizzardo/highloadcup | Java | 196.0105 | Mikhail Bobrutskov |
-| 26 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
-| 31 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
-| 33 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
-| 39 | https://github.com/evgsid/highload_solution | C++ | 197.54879 | Евгений Сидоренко |
-| 42 | https://github.com/WebProdPP/highloadcup | Go | 226.86371 | Александр Майорский |
+| 22 | https://github.com/WebProdPP/highloadcup | Go | 207.89232 | Александр Майорский |
+| 27 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
+| 33 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
+| 35 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
+| 40 | https://github.com/evgsid/highload_solution | C++ | 197.54879 | Евгений Сидоренко |
 | 43 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
 | 44 | https://github.com/AterCattus/bicycle-mrhlc | Go | 189.50301 | Алексей Акулович |
 | 45 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
