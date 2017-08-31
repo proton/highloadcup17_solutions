@@ -19,6 +19,7 @@
 | 89 | https://github.com/lockie/highload-cup | C, Python | 349.36356 | Андрей Кравчукъ |
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
 | 111 | https://github.com/server-may-cry/highloadcup_17 | Go | 1151.07688 | Сергей Оплетаев |
+| 129 | https://github.com/SHaaD94/highload2017 | Lua+Tarantool | 3565.56944 | Евгений Зуйкин |
 | 184 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 662055.46623 | Maxim Zasorin |
 | 209 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51006 | Arcady Chumachenko |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
