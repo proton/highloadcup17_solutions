@@ -7,9 +7,9 @@
 | Место  | Ссылка | Язык | Штраф | Имя |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | https://github.com/nikita-uvarov/highloadcup-travels-solution | C++ | 127.10408 | Никита Уваров |
-| 3 | https://github.com/cdump/highloadcup | С | 134.33168 | Максим Андреев |
-| 4 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
-| 5 | https://github.com/tyamgin/highloadcup | C++ | 138.69932 | Иван Тямгин |
+| 3 | https://github.com/cdump/highloadcup | С | 134.20449 | Максим Андреев |
+| 4 | https://github.com/tyamgin/highloadcup | C++ | 137.02302 | Иван Тямгин |
+| 5 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
 | 11 | https://github.com/AterCattus/bicycle-mrhlc | Go | 186.40326 | Алексей Акулович |
 | 13 | https://github.com/evgsid/highload_solution | C++ | 188.93276 | Евгений Сидоренко |
 | 14 | https://github.com/xzfc/highloadcup | C++ | 190.32211 | Jerky McJerkface |
