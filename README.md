@@ -38,13 +38,13 @@
 | 127 | https://github.com/alexk8/mrghighloadcup17 | C# | 2524.9229 | Alex K |
 | 129 | https://github.com/SHaaD94/highload2017 | Lua+Tarantool | 3565.56944 | Евгений Зуйкин |
 | 132 | https://github.com/volyx/ratpack | Java | 4431.67258 | Дмитрий Волыхин |
+| 146 | https://github.com/kak-tus/avery | Perl | 18866.41 | Андрей Кузьмин |
 | 151 | https://github.com/maierru/hlcup_elixir | Elixir | 37226.29 | Юрий Кудряшов |
 | 153 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
 | 191 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
 | 221 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51 | Arcady Chumachenko |
 | 232 | https://github.com/SuperVasya/highloadcup | Python | 1514831.39 | Eugene Karimov |
 |  | https://github.com/la0rg/highloadcup | Go |  |  |
-|  | https://github.com/kak-tus/avery | Perl |  |  |
 |  | https://github.com/ilov3/highloadcup | Python |  |  |
 |  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
