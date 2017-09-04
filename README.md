@@ -43,6 +43,7 @@
 | 161 | https://github.com/maierru/hlcup_elixir | Elixir | 37226.29 | Юрий Кудряшов |
 | 163 | https://github.com/undying/highloadcup-2017 | Nginx+Lua+Redis | 45620.02 | Денис Божок |
 | 164 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
+| 182 | https://github.com/akzhan/highload-cup-1 | Crystal | 	249142.25047 | Akzhan Abdulin |
 | 199 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
 | 229 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51 | Arcady Chumachenko |
 | 235 | https://github.com/ebogdanov/highloadcup-solution | PHP | 1436469.91 | Евгений Богданов |
