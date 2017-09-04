@@ -53,5 +53,6 @@
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
 |  | https://github.com/essildoor/kona-travels | Java |  |  |
 |  | https://github.com/disc/highloadcup | Go |  |  |
+|  | https://github.com/oleggromov/hlc2017 | Javascript |  | Oleg Gromov |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
