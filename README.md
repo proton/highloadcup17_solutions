@@ -32,6 +32,7 @@
 | 80 | https://github.com/cdfeasy/highloadcup | Java | 303.86881 | Дмитрий Асадуллин |
 | 83 | https://github.com/alex-shch/hlc-2017 | Go | 310.28113 | Александр Щукин |
 | 88 | https://github.com/lockie/highload-cup | C, Python | 325.2246 | Андрей Кравчукъ |
+| 92 | https://github.com/urakozz/go-hlcup2017 | Go | 317.80908 | Yury Kozyrev |
 | 99 | https://github.com/vania5595/highloadcup2017 | Go | 480.88691 | Иван Широкопояс |
 | 107 | https://github.com/lattenwald/highloadcup.ru | Elixir | 506.82566 | Александр Кюсев |
 | 117 | https://github.com/server-may-cry/highloadcup_17 | Go | 1028.86225 | Сергей Оплетаев |
