@@ -19,6 +19,7 @@
 | 22,32 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
 | 34,14 | https://github.com/xzfc/highloadcup | C++ | 190.32211 | Jerky McJerkface |
 | 23 | https://github.com/0xd34d10cc/highloadcup | Rust | 191.02502 | Jon Snow |
+| 25 | https://github.com/vertohod/HighloadCup | С++, rapidjson | 202.42794 | Sergey Potapov |
 | 44,28 | https://github.com/WebProdPP/highloadcup | Go | 207.89232 | Александр Майорский |
 | 35,37 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
 | 42,39 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
