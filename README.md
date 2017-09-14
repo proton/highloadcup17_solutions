@@ -30,6 +30,7 @@
 | 56 | https://github.com/FedorZaytsev/highloadcup2017 | Go | 249.87749 | Fedor Zaytsev |
 | 75 | https://github.com/c0va23/highloadcup_round_1 | Rust | 272.86656 | Дмитрий Федоренко |
 | 76 | https://github.com/ruslanys/highloadcup | Java | 274.20083 | Руслан Молчанов |
+| 79 | https://github.com/kswaldemar/highloadcup2017 | C++ | 279.64737 | Киселев Владимир |
 | 86 | https://github.com/cdfeasy/highloadcup | Java | 303.86881 | Дмитрий Асадуллин |
 | 89 | https://github.com/alex-shch/hlc-2017 | Go | 310.28113 | Александр Щукин |
 | 92 | https://github.com/urakozz/go-hlcup2017 | Go | 317.80908 | Yury Kozyrev |
