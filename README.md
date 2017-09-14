@@ -37,6 +37,7 @@
 | 99 | https://github.com/lockie/highload-cup | C, Python | 325.2246 | Андрей Кравчукъ |
 | 122 | https://github.com/vania5595/highloadcup2017 | Go | 468.68194 | Ваня Широкопояс |
 | 123 | https://github.com/lattenwald/highloadcup.ru | Elixir | 506.82566 | Александр Кюсев |
+| 131 | https://github.com/estin/travels-task | Rust | 791.69732 | Евгений Татаркин |
 | 136 | https://github.com/server-may-cry/highloadcup_17 | Go | 1028.86225 | Сергей Оплетаев |
 | 139 | https://github.com/alexk8/mrghighloadcup17 | C# | 1296.42748 | Alex K |
 | 142 | https://github.com/undying/highloadcup-2017 | Nginx+Lua+Redis | 2126.16902 | Денис Божок |
@@ -48,15 +49,16 @@
 | 182 | https://github.com/akzhan/highload-cup-1 | Crystal | 249142.25 | Akzhan Abdulin |
 | 214 | https://github.com/maximzasorin/highloadcup-1 | Javascript | 649548.64 | Maxim Zasorin |
 | 246 | https://github.com/ilvar/hlcup2017 | Go | 1284090.51 | Arcady Chumachenko |
+| 251 | https://github.com/mkpankov/rustler | Rust | 1413777.27 | Михаил Панков |
 | 252 | https://github.com/ebogdanov/highloadcup-solution | PHP | 1436469.91 | Евгений Богданов |
 | 256 | https://github.com/SuperVasya/highloadcup | Python | 1514831.39 | Eugene Karimov |
-|  | https://github.com/ilov3/highloadcup | Python |  | Bulat Kurbangaliev |
-|  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
-|  | https://github.com/essildoor/tengu-travels | Java |  |  |
 |  | https://github.com/bochsdbg/hlcup | C++ |  |  |
 |  | https://github.com/essildoor/kona-travels | Java |  |  |
 |  | https://github.com/disc/highloadcup | Go |  |  |
 |  | https://github.com/oleggromov/hlc2017 | Javascript |  | Oleg Gromov |
 |  | https://github.com/la0rg/highloadcup | Go |  |  |
+|  | https://github.com/ilov3/highloadcup | Python |  | Bulat Kurbangaliev |
+|  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
+|  | https://github.com/essildoor/tengu-travels | Java |  |  |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
