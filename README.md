@@ -44,6 +44,7 @@
 | 149 | https://github.com/SHaaD94/highload2017 | Lua+Tarantool | 3565.56944 | Евгений Зуйкин |
 | 153 | https://github.com/volyx/ratpack | Java | 4431.67258 | Дмитрий Волыхин |
 | 167 | https://github.com/kak-tus/avery | Perl | 18866.41 | Андрей Кузьмин |
+| 169 | https://github.com/Alexander8/highload_cup | C# | 19899.27 | Александр Лифшиц |
 | 171 | https://github.com/maierru/hlcup_elixir | Elixir | 37226.29 | Юрий Кудряшов |
 | 173 | https://github.com/masterdidoo/hiload | ASP.NET Core | 48041.27 | Александр Семенов |
 | 182 | https://github.com/akzhan/highload-cup-1 | Crystal | 249142.25 | Akzhan Abdulin |
@@ -52,13 +53,13 @@
 | 251 | https://github.com/mkpankov/rustler | Rust | 1413777.27 | Михаил Панков |
 | 252 | https://github.com/ebogdanov/highloadcup-solution | PHP | 1436469.91 | Евгений Богданов |
 | 256 | https://github.com/SuperVasya/highloadcup | Python | 1514831.39 | Eugene Karimov |
-|  | https://github.com/bochsdbg/hlcup | C++ |  |  |
-|  | https://github.com/essildoor/kona-travels | Java |  |  |
-|  | https://github.com/disc/highloadcup | Go |  |  |
-|  | https://github.com/oleggromov/hlc2017 | Javascript |  | Oleg Gromov |
 |  | https://github.com/la0rg/highloadcup | Go |  |  |
 |  | https://github.com/ilov3/highloadcup | Python |  | Bulat Kurbangaliev |
 |  | https://github.com/damner/highloadcup-php | PHP |  | Денис Винокуров |
 |  | https://github.com/essildoor/tengu-travels | Java |  |  |
+|  | https://github.com/bochsdbg/hlcup | C++ |  |  |
+|  | https://github.com/essildoor/kona-travels | Java |  |  |
+|  | https://github.com/disc/highloadcup | Go |  |  |
+|  | https://github.com/oleggromov/hlc2017 | Javascript |  | Oleg Gromov |
 
 Or you can search by tag: https://github.com/search?q=topic%3Ahighloadcup&type=Repositories
