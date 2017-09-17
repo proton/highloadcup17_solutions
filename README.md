@@ -18,6 +18,7 @@
 | 17,21 | https://github.com/irqlevel/http_server_hlcup2017 | C | 146.49961 | Andrey Smetanin |
 | 20,18 | https://github.com/kromberg/highload | С++ | 156.0643 | Егор Кромберг |
 | 21,49 | https://github.com/olegator77/hlcup_reindex | C++ | 157.77575 | Oleg Gerasimov |
+| 30 | https://github.com/dbf256/highloadcup-travel | Java | 185.75597 | Алексей Москвин |
 | 31,32 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
 | 42,14 | https://github.com/xzfc/highloadcup | C++ | 190.32211 | Jerky McJerkface |
 | 32 | https://github.com/0xd34d10cc/highloadcup | Rust | 191.02502 | Jon Snow |
