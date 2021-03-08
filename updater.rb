@@ -40,7 +40,7 @@ new_table_rating = repos.values.sort_by { |repo| repo[:time] }.map do |repo|
   repo[:time] = nil if repo[:time].infinite?
   time = repo[:time].to_f
   repo[:time] = time.round(2) if time.to_i.to_s.size > 4
-  repo[:position] = repo[:positions].join(',')
+  repo[:position] = repo[:positions].join(', ')
   ([nil] + fields.map { |f| repo[f] } + [nil]).join(' | ').strip
 end
 new_file_table_content = (file_table_header+new_table_rating).join("\n")

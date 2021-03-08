@@ -6,29 +6,29 @@
 
 | Место  | Ссылка | Язык | Штраф | Имя |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1,3 | https://github.com/cdump/highloadcup | С | 121.81437 | Максим Андреев |
-| 7,1 | https://github.com/nikita-uvarov/highloadcup-travels-solution | C++ | 127.10408 | Никита Уваров |
+| 1, 3 | https://github.com/cdump/highloadcup | С | 121.81437 | Максим Андреев |
+| 7, 1 | https://github.com/nikita-uvarov/highloadcup-travels-solution | C++ | 127.10408 | Никита Уваров |
 | 6 | https://github.com/alex-shch/hlc-2017 | Go | 134.54521 | Александр Щукин |
-| 9,5 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
-| 10,13 | https://github.com/evgsid/highload_solution | C++ | 136.47385 | Евгений Сидоренко |
-| 13,4 | https://github.com/tyamgin/highloadcup | C++ | 137.02302 | Иван Тямгин |
-| 12,17 | https://github.com/wizzardo/highloadcup | Java | 140.54994 | Mikhail Bobrutskov |
-| 15,11 | https://github.com/AterCattus/bicycle-mrhlc | Go | 145.24654 | Алексей Акулович |
-| 16,22 | https://github.com/mtrempoltsev/hlcup2017 | С++ | 145.83196 | Максим Тремпольцев |
-| 17,21 | https://github.com/irqlevel/http_server_hlcup2017 | C | 146.49961 | Andrey Smetanin |
-| 20,18 | https://github.com/kromberg/highload | С++ | 156.0643 | Егор Кромберг |
-| 21,49 | https://github.com/olegator77/hlcup_reindex | C++ | 157.77575 | Oleg Gerasimov |
+| 9, 5 | https://github.com/DragoonXen/HL-cup_2017 | C++ | 136.28793 | Алексей Дичковский |
+| 10, 13 | https://github.com/evgsid/highload_solution | C++ | 136.47385 | Евгений Сидоренко |
+| 13, 4 | https://github.com/tyamgin/highloadcup | C++ | 137.02302 | Иван Тямгин |
+| 12, 17 | https://github.com/wizzardo/highloadcup | Java | 140.54994 | Mikhail Bobrutskov |
+| 15, 11 | https://github.com/AterCattus/bicycle-mrhlc | Go | 145.24654 | Алексей Акулович |
+| 16, 22 | https://github.com/mtrempoltsev/hlcup2017 | С++ | 145.83196 | Максим Тремпольцев |
+| 17, 21 | https://github.com/irqlevel/http_server_hlcup2017 | C | 146.49961 | Andrey Smetanin |
+| 20, 18 | https://github.com/kromberg/highload | С++ | 156.0643 | Егор Кромберг |
+| 21, 49 | https://github.com/olegator77/hlcup_reindex | C++ | 157.77575 | Oleg Gerasimov |
 | 30 | https://github.com/dbf256/highloadcup-travel | Java | 185.75597 | Алексей Москвин |
-| 31,32 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
-| 42,14 | https://github.com/xzfc/highloadcup | C++ | 190.32211 | Jerky McJerkface |
+| 31, 32 | https://github.com/chemist777/highloadcup2017 | Java+C | 189.76677 | Александр Харитонов |
+| 42, 14 | https://github.com/xzfc/highloadcup | C++ | 190.32211 | Jerky McJerkface |
 | 32 | https://github.com/0xd34d10cc/highloadcup | Rust | 191.02502 | Jon Snow |
-| 47,25 | https://github.com/vertohod/HighloadCup | С++, rapidjson | 202.42794 | Sergey Potapov |
-| 52,28 | https://github.com/WebProdPP/highloadcup | Go | 207.89232 | Александр Майорский |
-| 43,37 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
-| 50,39 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
-| 54,44 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
-| 57,46 | https://github.com/ei-grad/hlcup | Go | 241.77205 | Андрей Григорьев |
-| 59,47 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
+| 47, 25 | https://github.com/vertohod/HighloadCup | С++, rapidjson | 202.42794 | Sergey Potapov |
+| 52, 28 | https://github.com/WebProdPP/highloadcup | Go | 207.89232 | Александр Майорский |
+| 43, 37 | https://github.com/Mons/hlcup | Perl | 212.34872 | Mons Anderson |
+| 50, 39 | https://github.com/oioki/highloadcup2017 | Go | 223.65799 | Alexander Oioki |
+| 54, 44 | https://github.com/proton/highloadcup17_go | Go | 234.53744 | Peter Savichev |
+| 57, 46 | https://github.com/ei-grad/hlcup | Go | 241.77205 | Андрей Григорьев |
+| 59, 47 | https://github.com/evis/highloadcup-2017-08 | Scala | 246.35233 | Evgeny Veretennikov |
 | 63 | https://github.com/FedorZaytsev/highloadcup2017 | Go | 249.87749 | Fedor Zaytsev |
 | 82 | https://github.com/c0va23/highloadcup_round_1 | Rust | 272.86656 | Дмитрий Федоренко |
 | 83 | https://github.com/ruslanys/highloadcup | Java | 274.20083 | Руслан Молчанов |
