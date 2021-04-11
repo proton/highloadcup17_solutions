@@ -1,6 +1,6 @@
 # Highloadcup 2017 solutions
 
-[Task](https://github.com/sat2707/hlcupdocs), [Performance/validity checker](https://github.com/AterCattus/highloadcup_tester), [Highloadcup 2018 solutions](https://github.com/proton/highloadcup18_solutions)
+[Task](https://github.com/sat2707/hlcupdocs), [Performance/validity checker](https://github.com/AterCattus/highloadcup_tester), 2017, [2018](https://github.com/proton/highloadcup18_solutions), [2021](https://github.com/proton/highloadcup21_solutions)
 
 | Место  | Ссылка | Язык | Штраф | Имя |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
