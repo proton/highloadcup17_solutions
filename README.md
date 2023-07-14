@@ -41,7 +41,6 @@
 | 139 | https://github.com/alexk8/mrghighloadcup17 | C# | 1296.42748 | Alex K |
 | 142 | https://github.com/undying/highloadcup-2017 | Nginx+Lua+Redis | 2126.16902 | Денис Божок |
 | 149 | https://github.com/SHaaD94/highload2017 | Lua+Tarantool | 3565.56944 | Евгений Зуйкин |
-| 153 | https://github.com/volyx/ratpack | Java | 4431.67258 | Дмитрий Волыхин |
 | 167 | https://github.com/kak-tus/avery | Perl | 18866.41 | Андрей Кузьмин |
 | 169 | https://github.com/Alexander8/highload_cup | C# | 19899.27 | Александр Лифшиц |
 | 171 | https://github.com/maierru/hlcup_elixir | Elixir | 37226.29 | Юрий Кудряшов |
